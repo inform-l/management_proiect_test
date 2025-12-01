@@ -1,2 +1,2 @@
-## Funcționalități
-- Sistem de autentificare utilizatori
+# proiect-laborator
+laborator 9
